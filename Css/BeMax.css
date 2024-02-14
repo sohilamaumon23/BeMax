@@ -59,6 +59,7 @@ header.scrolled nav a {
 
 .Landing{
     background-image: url(./a1.jpg);
+    filter: brightness(0.5);
     background-size: cover;
     padding: 305px 40px;
     text-align: center;
